@@ -1,3 +1,9 @@
+#
+# PROBLEM: determine if word is a rotated palindrome
+#
+
+
+
 def is_palindrome(word):
     for i in range(0,len(word)/2):
         if word[i] != word[len(word) -1 - i]:

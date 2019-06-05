@@ -1,3 +1,8 @@
+#
+# PROBLEM: Implement a linked list
+#
+
+
 class Node:
     left = None
     right = None

@@ -1,3 +1,8 @@
+#
+# PROBLEM: Implement a binary search tree
+#
+
+
 class Node:
     value = None
     left = None

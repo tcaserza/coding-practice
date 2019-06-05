@@ -1,3 +1,8 @@
+#
+# PROBLEM: Given a grid of walkable locations find the quickest route from start to finish
+#
+
+
 def minimumDistance(numRows, numColumns, area):
     fewest_steps = walk_path(0, 0, area, numColumns, numRows, None)
     return fewest_steps

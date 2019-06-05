@@ -1,3 +1,9 @@
+#
+# PROBLEM: You plan to listen to music on a bus ride.  You are given an array of song durations, and a bus ride
+#          duration, find a pair of songs that will end 30 seconds before you arrive.
+#
+
+
 def IDsOfSongs(rideDuration, songDurations):
     song_1_id = None
     song_2_id = None

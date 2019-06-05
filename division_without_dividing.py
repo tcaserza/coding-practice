@@ -1,3 +1,8 @@
+#
+# PROBLEM: Divide one number by another without using division symbol
+#
+
+
 def divide(dividend, divisor):
     if divisor > dividend:
         return 0

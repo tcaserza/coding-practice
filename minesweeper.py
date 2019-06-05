@@ -1,3 +1,7 @@
+#
+# Problem: Create a minesweeper game
+#
+
 import random
 
 def generate_board(x,y, mines):
